@@ -1,0 +1,18 @@
+{
+  "name": "sobat-jp-slot",
+  "main": "./lib/sobat-jp-slot",
+  "version": "1.0.0",
+  "description": "Trik Dan Tips Daftar Nama Sobat Jp Slot Link Web",
+  "keywords": ["game slot terbaik","agentotoplay","slot joker123","agen toto play slot","agen slot terbaik","agentoto slot","slot online jackpot tertinggi","agen slot online","habanero slot"],
+
+  "activationCommands": {
+    "atom-workspace": "sobat-jp-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya90/sobat-jp-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

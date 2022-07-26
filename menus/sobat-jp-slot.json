@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sobat-jp-slot",
+        "command": "sobat-jp-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sobat-jp-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sobat-jp-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
